@@ -1,6 +1,6 @@
 # Trust in Automation Questionnaire (TiA)
 
-This is the repository for the "Trust in Automation" (TiA) questionnaire (German: "Fragebogen Vertrauen in Automation") by Moritz Körber. The questionnaire is available in **German** (`Vertrauen-in-Automation_TiA_Fragebogen.pdf`) and **English** (`Trust-in-Automation_TiA_questionnaire.pdf`). The questionnaire's **German and English manuals** are located in `1_manual/`.
+This is the repository for the "Trust in Automation" (TiA) questionnaire (German: "Fragebogen Vertrauen in Automation") by Moritz Körber. The questionnaire is available in **German** (`Vertrauen-in-Automation_TiA_Fragebogen.pdf`) and **English** (`Trust-in-Automation_TiA_questionnaire.pdf`). The questionnaire's **German and English manuals** are located in `1_manual/`. Feel free to ask any questions you may have in the repo's discussion section.
 
 ## Citation
 
