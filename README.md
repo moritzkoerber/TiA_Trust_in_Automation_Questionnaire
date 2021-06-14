@@ -26,9 +26,7 @@ Furthermore, the benefit of a revision of the subscale *Trust in Automation* cou
 
 A revision may also reconsider the inclusion of the scale *Familiarity*. In the theoretical model, familiarity itself is not considered to be an element of trust in automation but indirectly influences it as a moderator. This moderating role needs to be confirmed. In the same manner, the inclusion of the subscale *Intention of the developers* must be reviewed since no factor could be extracted for this subscale in the initial factor analysis in Körber (2019). Depending on the results, researchers could eliminate up to both scales to shorten the questionnaire and may focus their future work on a “core questionnaire”.
 
-<br>
-
-### Literature
+### References
 
 <small>
 
